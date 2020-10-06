@@ -1,0 +1,7 @@
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\bin\Debug\cvekŠpraljaJakovVjezba2.exe.config
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\bin\Debug\cvekŠpraljaJakovVjezba2.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\bin\Debug\cvekŠpraljaJakovVjezba2.pdb
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\obj\Debug\cvekŠpraljaJakovVjezba2.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\obj\Debug\cvekŠpraljaJakovVjezba2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\obj\Debug\cvekŠpraljaJakovVjezba2.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovVjezba2\cvekŠpraljaJakovVjezba2\obj\Debug\cvekŠpraljaJakovVjezba2.pdb
